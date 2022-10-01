@@ -9,7 +9,6 @@ def times():
 root=Tk()
 
 root.title("Python GUI Digital Clock")
-root.wm_iconbitmap("clock.ico")
 root.geometry("700x200")
 root.minsize(700, 200)
 root.maxsize(700, 200)
